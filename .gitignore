@@ -17,6 +17,10 @@ tmp/*
 #vscode's stuff
 .vscode/
 
+output/*
+data/*
+
+
 # pdf files
 *.pdf
 
